@@ -1,4 +1,4 @@
-# JAKI Mobile Application Security Assessment
+# Mobile Application Security Assessment — Academic Project (JAKI-themed Dummy APK)
 
 Authorized, non-destructive mobile application security assessment of a dummy JAKI / Jakarta Kini Android APK conducted as an academic group project.
 
