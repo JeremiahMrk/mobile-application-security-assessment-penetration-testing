@@ -4,7 +4,7 @@ This repository is an academic cybersecurity portfolio artifact.
 
 The assessment documented here was performed in an authorized, non-destructive dummy/testing context as part of a university project.
 
-This repository does not represent an official security assessment performed on behalf of JAKI, Jakarta Smart City, or the Government of DKI Jakarta.
+This repository does not represent an official security assessment performed on behalf of the application owner, service operator, or any government organization.
 
 The findings represent observations from the specific application version, environment, and testing conditions documented during the academic project.
 

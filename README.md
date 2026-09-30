@@ -1,6 +1,8 @@
-# Mobile Application Security Assessment — Academic Project (JAKI-themed Dummy APK)
+# Android Application Penetration Testing
 
-Authorized, non-destructive mobile application security assessment of a dummy JAKI / Jakarta Kini Android APK conducted as an academic group project.
+Academic Android application penetration testing of an Indonesian service application. The application identity is withheld in this public portfolio.
+
+The documented assessment was conducted as an academic group project in an authorized, non-destructive dummy/testing context.
 
 ## Overview
 
@@ -8,7 +10,7 @@ This project combined Static Application Security Testing (SAST) and Dynamic App
 
 Documented assessment context:
 
-- Application: Dummy JAKI / Jakarta Kini Android APK
+- Application: Anonymized Android service application (dummy/testing assessment context)
 - Version: 4.0.19
 - versionCode: 203
 - Testing context: authorized, non-destructive
@@ -80,7 +82,7 @@ The assessment also documented controls that behaved correctly during testing, i
 
 - Encrypted local-storage indicators
 - Rejection of modified and unsigned JWTs
-- No plaintext JAKI user credential discovered in tested local-storage directories
+- No plaintext application user credential discovered in tested local-storage directories
 - HTTPS observed during tested runtime flows
 
 See [Positive Security Controls](docs/positive-security-controls.md).
@@ -107,13 +109,13 @@ See [Remediation Priorities](docs/remediation-priorities.md).
 
 A recruiter-friendly public summary is available here:
 
-[Download / view the portfolio report](report/JAKI_Mobile_Security_Assessment_Portfolio.pdf)
+[Download / view the portfolio report](report/Android_Application_Penetration_Testing_Portfolio.pdf)
 
 ## Important Scope Note
 
 This repository represents an academic assessment conducted in an authorized dummy/testing context.
 
-It must not be interpreted as a statement about the current security posture of the production JAKI application or infrastructure.
+It must not be interpreted as a statement about the current security posture of the production application or infrastructure.
 
 Detailed reproduction steps, sensitive identifiers, authentication material, exact private request data, and other potentially harmful information have intentionally been omitted from the public portfolio.
 

@@ -2,11 +2,11 @@
 
 ## Assessment Scope
 
-This project assessed a dummy JAKI / Jakarta Kini Android APK in an authorized, non-destructive testing context.
+This project assessed a anonymized Android service application in a dummy/testing assessment context in an authorized, non-destructive testing context.
 
 Documented target:
 
-- Android application: Dummy JAKI / Jakarta Kini
+- Android application: Anonymized Android service application
 - Version: 4.0.19
 - versionCode: 203
 - Testing environment: dummy/testing environment and account

@@ -8,7 +8,7 @@ The final revised assessment recorded the following positive or informational ob
 |---|---|---|
 | PF01 | Local data-encryption indicators | EncryptedSharedPreferences and restrictive backup configuration were observed |
 | D06 | JWT tampering / unsigned token validation | Modified and `alg:none` tokens were rejected |
-| D07 | Local credential-storage review | No plaintext JAKI user token or password was found in the tested application directories |
+| D07 | Local credential-storage review | No plaintext application user token or password was found in the tested application directories |
 | D08 | Runtime transport validation | Tested runtime flows used HTTPS; sensitive cleartext HTTP traffic was not confirmed |
 
 ## Why These Matter
@@ -19,4 +19,4 @@ They also demonstrate an evidence-based testing approach: a behavior is only cla
 
 For example, although static network configuration required improvement, the tested runtime flow did not provide evidence of sensitive cleartext HTTP traffic.
 
-Similarly, local-storage testing did not identify plaintext JAKI authentication credentials in the directories examined.
+Similarly, local-storage testing did not identify plaintext application authentication credentials in the directories examined.
